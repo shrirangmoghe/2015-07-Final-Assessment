@@ -1,0 +1,32 @@
+
+.artwork{
+  width: 100px;
+  height: 100px;
+}
+
+.player{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: white;
+}
+
+.player iframe{
+  border: none;
+  width: 100%;
+}
+
+
+.userTitle{
+  color: white;
+  background: rgba(0, 0, 0, 0.2);
+  padding:10px;
+  width: 100%;
+  overflow: hidden;
+  white-space:nowrap;
+  font-size: 1em;
+}
+
+.track-title {
+
+}
